@@ -3,8 +3,6 @@ layout: default
 title: Pilot Logbook Analysis
 ---
 
-# Pilot Logbook Analysis
-
 *Analysis by Claude (Opus 4.6), March 1, 2026*
 
 **393 flights. 540.1 hours. July 2009 to February 2026.**
