@@ -110,7 +110,7 @@ You're building toward the commercial checkride, and the recent flights show foc
 
 ## Where Things Stand
 
-540.1 total hours. Approaching commercial certificate requirements. IFR capable and exercising it regularly. Your own well-equipped airplane. A network of flying friends. Your most recent flight was two days ago, and your most active flying year was last year.
+540.1 total hours. Approaching commercial certificate requirements. IFR capable and exercising it regularly. Your own well-equipped airplane. A network of flying friends. Your most recent flight was yesterday, and your most active flying year was last year.
 
 The logbook of a pilot who came back from a long break, earned a hard rating, bought an airplane, and never stopped getting better.
 
